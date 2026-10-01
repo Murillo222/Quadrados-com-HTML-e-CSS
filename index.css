@@ -1,0 +1,24 @@
+body {
+            background-image: url('images.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        table {
+            border: 4px dashed black;
+            font-size: 200%;
+            width: 400px;
+            position: relative;
+            left:38%;
+        }
+
+        th {
+            border: 2px solid green;
+            background-color: aqua;
+        }
+
+        td {
+            border: 2px solid green;
+            background-color: rgb(0, 255, 76);
+        }
