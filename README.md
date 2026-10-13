@@ -17,8 +17,8 @@ Atualmente, sou **estudante do curso Técnico em Informática no Instituto Feder
 
 Estou sempre aberto a trocar ideias sobre estudos, novos projetos e tecnologia!
 
-* 💼 LinkedIn  https://www.linkedin.com/in/murillo-sousa-2a908a36b/?isSelfProfile=true
-* 📧 **E-mail:** murillo12neres@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/murillo-sousa-2a908a36b/?isSelfProfile=true)
+* * [Currículo Lattes]( https://lattes.cnpq.br/2045294740134829)
 
 ---
 <p align="center">
