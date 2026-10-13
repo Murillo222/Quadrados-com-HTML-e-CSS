@@ -1,32 +1,26 @@
-Este é um projeto simples de uma página web que exibe uma tabela com uma lista de professores.
-O objetivo principal deste projeto é praticar a estruturação de tabelas em **HTML5** e a estização utilizando **CSS**,
-incluindo conceitos de centralização e manipulação de bordas.
+### 👨‍💻 Estudante de Técnico em Informática no IFB
 
-## 🛠️ Linguagens Utilizadas
+Atualmente, sou **estudante do curso Técnico em Informática no Instituto Federal de Brasília (IFB)**. Estou construindo minha base na área de tecnologia, desenvolvendo meus primeiros projetos e explorando o universo do desenvolvimento de software.
 
-* **HTML5:** Para a estruturação dos dados dos professores.
-* **CSS3:** Para a estilização visual, fontes e posicionamento dos elementos.
+---
 
-## 📁 Estrutura do Projeto
+### 📝 Sobre Mim
 
-text
-├── index.html       # Arquivo principal com a estrutura da tabela
-├── index.css        # Arquivo de estilos contendo as regras CSS
-└── images.jpg       # Imagem utilizada como plano de fundo (background)
+* 🏫 **Instituição:** Instituto Federal de Brasília (IFB)
+* 🎯 **Objetivo:**  desenvolvimento web e cursar Segurança da informação para iniciar minha carreira na área de tecnologia.
+* 🌱 **No momento estou aprendendo:** Lógica de Programação, HTML/CSS, JavaScript ,SQL Server
+* ⚡ **Fato curioso:** Adoro resolver problemas de lógica e sou bastante interessado em Segurança da informação 
 
-🔧 Como Executar o Projeto
+---
 
-**Para visualizar o projeto localmente no seu navegador, siga os passos abaixo:**
+### 🤝 Conecte-se Comigo
 
-1. Baixe os arquivos do repositório ou clone o projeto:
-   
-2. Abra o arquivo **index.html`** em qualquer navegador web (Chrome, Firefox, Edge, etc.).
+Estou sempre aberto a trocar ideias sobre estudos, novos projetos e tecnologia!
 
-##Professores Listados
+* 💼 LinkedIn  https://www.linkedin.com/in/murillo-sousa-2a908a36b/?isSelfProfile=true
+* 📧 **E-mail:** murillo12neres@gmail.com
 
-O projeto atualmente exibe os seguintes professores no cabeçalho de exemplo:
-* Claudio Ulisse
-* Euder Santos
-* Dayane Silva
-
-Projeto desenvolvido para fins de estudo de desenvolvimento web front-end.*
+---
+<p align="center">
+  <i>"Em constante evolução, uma linha de código por vez."</i>
+</p>
