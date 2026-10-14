@@ -30,7 +30,6 @@ Para visualizar este projeto localmente na sua máquina, siga os passos abaixo:
    ```text
    ├── index.html
    ├── index.css
-   └── images.jpg  <- (Certifique-se de ter uma imagem com este nome na mesma pasta)
    ```
 
 3. **Abra o arquivo** `index.html` em qualquer navegador web de sua preferência.
