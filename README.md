@@ -1,26 +1,40 @@
-### 👨‍💻 Estudante de Técnico em Informática no IFB
+# 📋 Tabela de Professores com HTML e CSS
 
-Atualmente, sou **estudante do curso Técnico em Informática no Instituto Federal de Brasília (IFB)**. Estou construindo minha base na área de tecnologia, desenvolvendo meus primeiros projetos e explorando o universo do desenvolvimento de software.
+Este é um projeto simples desenvolvido para praticar a estruturação de tabelas em **HTML5** e a estilização avançada de propriedades visuais utilizando **CSS3**, como bordas personalizadas, alinhamento e imagens de fundo responsivas.
 
----
+## 🚀 Tecnologias Utilizadas
 
-### 📝 Sobre Mim
+*   **HTML5:** Estruturação dos dados utilizando tags semânticas de tabela (`<table>`, `<thead>`, `<tbody>`, `<tr>`, `<th>`, `<td>`).
+*   **CSS3:** Estilização visual, incluindo:
+    *   Fundo dinâmico com `background-size: cover`.
+    *   Bordas personalizadas (`dashed` e `solid`).
+    *   Formatação de fontes e espaçamentos (`padding`, `margin`).
+    *   Uso do `border-collapse` para tabelas limpas.
 
-* 🏫 **Instituição:** Instituto Federal de Brasília (IFB)
-* 🎯 **Objetivo:**  desenvolvimento web e cursar Segurança da informação para iniciar minha carreira na área de tecnologia.
-* 🌱 **No momento estou aprendendo:** Lógica de Programação, HTML/CSS, JavaScript ,SQL Server
-* ⚡ **Fato curioso:** Adoro resolver problemas de lógica e sou bastante interessado em Segurança da informação 
+## 🎨 Funcionalidades Destacadas no Código
 
----
+1.  **Fundo Adaptável:** O plano de fundo utiliza uma imagem que se ajusta ao tamanho da tela e não se repete.
+2.  **Mesclagem de Células:** Uso do atributo `colspan="2"` para criar um cabeçalho centralizado de título para a lista.
+3.  **Tabela Centralizada:** Uso de `margin: 50px auto` para garantir que a tabela fique perfeitamente centralizada na horizontal.
 
-### 🤝 Conecte-se Comigo
+## 🔧 Como Executar o Projeto
 
-Estou sempre aberto a trocar ideias sobre estudos, novos projetos e tecnologia!
+Para visualizar este projeto localmente na sua máquina, siga os passos abaixo:
 
-* [LinkedIn](https://www.linkedin.com/in/murillo-sousa-2a908a36b/?isSelfProfile=true)
-* * [Currículo Lattes]( https://lattes.cnpq.br/2045294740134829)
+1. **Clone o repositório** ou baixe os arquivos:
+   ```bash
+   git clone https://github.com
+   ```
 
----
-<p align="center">
-  <i>"Em constante evolução, uma linha de código por vez."</i>
-</p>
+2. **Estrutura de arquivos** necessária:
+   ```text
+   ├── index.html
+   ├── index.css
+   └── images.jpg  <- (Certifique-se de ter uma imagem com este nome na mesma pasta)
+   ```
+
+3. **Abra o arquivo** `index.html` em qualquer navegador web de sua preferência.
+
+## 📄 Licença
+
+Este projeto é de uso livre para fins de estudo e aprendizado.
